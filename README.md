@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Valentín Mansilla</h1>
-  <p>I’m a <b>Systems Engineering student</b> at UTN FRC (Córdoba, Argentina), passionate about programming, software development, and building tools that solve real problems.</p>
+  <h1>Hey :D I'm Valentín Mansilla</h1>
+  <p>I’m a <b>Systems Engineering student</b> at UTN FRC (Córdoba, Argentina), passionate about programming, software development.</p>
   <p>Background: <b>Electromechanical Technician</b> | Experience in <b>Python</b> | Long-term goal: work internationally, especially in Switzerland.</p>
   
   <p>
@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Current Projects & Interests
+### Current Projects & Interests
 <div align="center">
 - Developing my <b>personal portfolio website</b> to showcase projects and skills  
 - Automation  
@@ -29,20 +29,20 @@
 
 ---
 
-### 💼 Collaboration & Teamwork
+### Collaboration & Teamwork
 <div align="center">
 I’m open to collaborating on projects that involve:  
 - <b>Automation and productivity tools</b>  
 - <b>Open-source contributions</b>  
 
 I bring:  
-  Strong analytical skills and programming knowledge  
+  Analytical skills and programming knowledge  
   Problem-solving mindset and quick learning
 </div>
 
 ---
 
-### 📫 How to Reach Me
+### How to Reach Me
 <div align="center">
   <a href="https://www.linkedin.com/in/valentin-mansilla-154a5028b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
