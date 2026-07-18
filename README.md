@@ -1,6 +1,6 @@
 # Hola, soy Valentín Mansilla 
 
-Estudio **Ingeniería en Sistemas de Información** en la **UTN FRC**, en Córdoba, Argentina.
+Actualmente estoy cursando **3.° Año de Ingeniería en Sistemas de Información** en la **UTN FRC**, en Córdoba, Argentina.
 
 Soy una persona curiosa que le gusta entender cómo funcionan las cosas, encontrar problemas y buscar formas para resolverlos. Actualmente estoy especialmente interesado en **Python, automatización y análisis de datos**, mientras sigo aprendiendo y descubriendo qué áreas de la tecnología me interesan más.
 
@@ -35,13 +35,13 @@ Mi formación como técnico electromecánico también me dio experiencia trabaja
 
 ---
 
-### Sobre mi
+### Sobre mí
 
 Actualmente estoy aprendiendo **alemán**, y me interesa seguir mejorando mis idiomas para poder acceder en el futuro a oportunidades internacionales.
 
 Uno de mis objetivos a largo plazo es poder trabajar en el extranjero, especialmente en **Suiza**.
 
-Tambien disfruto de la música, toco el bajo y tengo una banda de Rock & Blues con mis amigos
+También disfruto de la música, toco el bajo y tengo una banda de Rock & Blues con mis amigos
 
 ---
 
