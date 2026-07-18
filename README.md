@@ -1,54 +1,54 @@
-<div align="center">
-  <h1>Hey :D I'm Valentín Mansilla</h1>
-  <p>I’m a <b>Systems Engineering student</b> at UTN FRC (Córdoba, Argentina), passionate about programming, software development.</p>
-  <p>Background: <b>Electromechanical Technician</b> | Experience in <b>Python</b> | Long-term goal: work internationally, especially in Switzerland.</p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Smalltalk-3776AB?style=for-the-badge&logo=smalltalk&logoColor=white" alt="Smalltalk"/>
-    <img src="https://img.shields.io/badge/Haskell-3776AB?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/>
-    <img src="https://img.shields.io/badge/ASM-3776AB?style=for-the-badge&logoColor=white" alt="ASM"/>
-  </p>
+# Hola, soy Valentín Mansilla 
 
-  <p>
-    <img src="https://img.shields.io/badge/English-B2-1E90FF?style=for-the-badge" alt="English"/>
-    <img src="https://img.shields.io/badge/Spanish-Native-1E90FF?style=for-the-badge" alt="Spanish"/>
-    <img src="https://img.shields.io/badge/German-A1-1E90FF?style=for-the-badge" alt="German"/>
-    <img src="https://img.shields.io/badge/French-A1-1E90FF?style=for-the-badge" alt="French"/>
-  </p>
-</div>
+Estudio **Ingeniería en Sistemas de Información** en la **UTN FRC**, en Córdoba, Argentina.
+
+Soy una persona curiosa que le gusta entender cómo funcionan las cosas, encontrar problemas y buscar formas para resolverlos. Actualmente estoy especialmente interesado en **Python, automatización y análisis de datos**, mientras sigo aprendiendo y descubriendo qué áreas de la tecnología me interesan más.
+
+También tengo formación como **Técnico en Equipos e Instalaciones Electromecánicas**, y desde hace algunos años realizo trabajos de soporte técnico y mantenimiento de computadoras y sistemas.
 
 ---
 
-### Current Projects & Interests
-<div align="center">
-- Developing my <b>personal portfolio website</b> to showcase projects and skills  
-- Automation  
-- Learning German and French
-</div>
+### Tecnologías y herramientas
+
+- **Lenguajes:** Python, SQL, Haskell, Smalltalk, ASM, Prolog
+- **Datos y BI:** Pandas, Power BI, Excel
+- **Herramientas:** Git, GitHub, Ollama
+- **Otros:** Linux, Windows, estructuras de datos y programación orientada a objetos
 
 ---
 
-### Collaboration & Teamwork
-<div align="center">
-I’m open to collaborating on projects that involve:  
-- <b>Automation and productivity tools</b>  
-- <b>Open-source contributions</b>  
+### En qué estoy trabajando
 
-I bring:  
-  Analytical skills and programming knowledge  
-  Problem-solving mindset and quick learning
-</div>
+Actualmente estoy desarrollando proyectos personales para seguir aprendiendo y aplicar lo que estudio.
+
+Uno de ellos es un proyecto de **procesamiento y automatización de catálogos de productos**, donde trabajo con Python, limpieza de datos, extracción de información, ETL e Inteligencia Artificial.
+
+También estoy desarrollando mi propio portfolio y explorando distintas herramientas relacionadas con la automatización y los datos.
 
 ---
 
-### How to Reach Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/valentin-mansilla-154a5028b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/valemmp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+### Experiencia
 
+Además de estudiar, realizo trabajos independientes de **soporte técnico y mantenimiento de computadoras y sistemas**, principalmente Windows y Linux.
+
+Mi formación como técnico electromecánico también me dio experiencia trabajando con problemas técnicos y buscando soluciones de forma práctica.
+
+---
+
+### Sobre mi
+
+Actualmente estoy aprendiendo **alemán**, y me interesa seguir mejorando mis idiomas para poder acceder en el futuro a oportunidades internacionales.
+
+Uno de mis objetivos a largo plazo es poder trabajar en el extranjero, especialmente en **Suiza**.
+
+Tambien disfruto de la música, toco el bajo y tengo una banda de Rock & Blues con mis amigos
+
+---
+
+### 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/valentin-mansilla-154a5028b/) · [GitHub](https://github.com/valemmp)
+
+---
+
+*Todavía estoy aprendiendo y definiendo mi camino dentro de la tecnología, pero me gusta construir proyectos, probar cosas nuevas y entender cómo funcionan.*
