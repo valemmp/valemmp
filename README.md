@@ -47,7 +47,7 @@ También disfruto de la música, toco el bajo y tengo una banda de Rock & Blues 
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 [LinkedIn](https://www.linkedin.com/in/valentin-mansilla-154a5028b/) · [GitHub](https://github.com/valemmp)
 
