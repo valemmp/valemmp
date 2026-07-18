@@ -23,6 +23,8 @@ Actualmente estoy desarrollando proyectos personales para seguir aprendiendo y a
 
 Uno de ellos es un proyecto de **procesamiento y automatización de catálogos de productos**, donde trabajo con Python, limpieza de datos, extracción de información, ETL e Inteligencia Artificial.
 
+[Ver proyecto: Automatización de catálogos](https://github.com/valemmp/proyecto-catalogo-bi)
+
 También estoy desarrollando mi propio portfolio y explorando distintas herramientas relacionadas con la automatización y los datos.
 
 ---
